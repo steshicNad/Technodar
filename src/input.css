@@ -1,0 +1,8 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@font-face{
+    font-family: 'EuclidCircularA'
+    src: url('./fonts/Euclid Circular A Regular.ttf');
+}
