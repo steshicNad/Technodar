@@ -3,6 +3,9 @@
 @tailwind utilities; */
 
 @font-face{
-    font-family: 'EuclidCircularA'
-    src: url('./fonts/Euclid Circular A Regular.ttf');
+    font-family: 'EuclidCircularA';
+    src: url('../fonts/Euclid Circular A Regular.ttf');
+}
+* {
+    font-family: 'EuclidCircularA';
 }
